@@ -1,0 +1,21 @@
+{
+  "name": "fun_backend",
+  "version": "1.0.0",
+  "description": "Practise ONE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "one"
+  ],
+  "author": "Nikhil singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "env": "^0.0.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}
